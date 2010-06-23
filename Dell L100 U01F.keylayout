@@ -1,6 +1,6 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.0b8 on 2010-06-23 at 15:37 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.0b8 on 2010-06-23 at 16:17 (GMT+02:00)-->
 <keyboard group="126" id="0" name="Dell L100 U01F (France)" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -187,6 +187,7 @@
             <key code="46" output="?"/>
             <key code="47" output="/"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -332,6 +333,7 @@
             <key code="31" output="Œ"/>
             <key code="36" output="&#x000D;"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
